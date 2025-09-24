@@ -25,6 +25,7 @@ Atualmente, a página **`HomePege`** está sendo desenvolvida com diferentes com
     - **Árbitro**: Dados pessoais relevantes do árbitro, estatísticas com filtros por temporada, notícias relacionadas e avaliações dos especialistas.
     - **Notícia**: Página com o corpo da notícia em sí com área para comentários e botão de upvote.
     - **Jornalista**: Últimas notícas publicadas pelo jornalista e suas análises.
+2. Criar backend com Python + MongoDB.    
 
 ## Observação
 Este projeto faz parte do meu **Trabalho de Conclusão de Curso** e está em constante evolução. Atualmente, os dados são apenas exemplos para testes visuais e lógicos, não representando informações reais.
